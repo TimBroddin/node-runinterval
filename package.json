@@ -1,0 +1,24 @@
+{
+  "name": "runinterval",
+  "version": "0.1.0",
+  "description": "Just like setInterval, except the callback gets called immediately",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TimBroddin/node-runinterval.git"
+  },
+  "keywords": [
+    "timer",
+    "interval",
+    "setinterval"
+  ],
+  "author": "Tim Broddin <tim@broddin.be> (http://broddin.be/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimBroddin/node-runinterval/issues"
+  },
+  "homepage": "https://github.com/TimBroddin/node-runinterval"
+}
